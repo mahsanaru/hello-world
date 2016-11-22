@@ -18,6 +18,3 @@ while ($row = $rs->fetch_array(MYSQLI_ASSOC)) {
 $rs->close();
 $connection->close();
 ?>
-
-
-
